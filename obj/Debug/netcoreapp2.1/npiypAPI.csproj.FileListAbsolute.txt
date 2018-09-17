@@ -1,0 +1,14 @@
+/Users/Phyxsiuss/Documents/CoeurFamilleHoldings/TechCoeur/projects/npiypAPI/bin/Debug/netcoreapp2.1/npiypAPI.deps.json
+/Users/Phyxsiuss/Documents/CoeurFamilleHoldings/TechCoeur/projects/npiypAPI/bin/Debug/netcoreapp2.1/npiypAPI.runtimeconfig.json
+/Users/Phyxsiuss/Documents/CoeurFamilleHoldings/TechCoeur/projects/npiypAPI/bin/Debug/netcoreapp2.1/npiypAPI.runtimeconfig.dev.json
+/Users/Phyxsiuss/Documents/CoeurFamilleHoldings/TechCoeur/projects/npiypAPI/bin/Debug/netcoreapp2.1/npiypAPI.dll
+/Users/Phyxsiuss/Documents/CoeurFamilleHoldings/TechCoeur/projects/npiypAPI/bin/Debug/netcoreapp2.1/npiypAPI.pdb
+/Users/Phyxsiuss/Documents/CoeurFamilleHoldings/TechCoeur/projects/npiypAPI/obj/Debug/netcoreapp2.1/npiypAPI.csprojAssemblyReference.cache
+/Users/Phyxsiuss/Documents/CoeurFamilleHoldings/TechCoeur/projects/npiypAPI/obj/Debug/netcoreapp2.1/npiypAPI.csproj.CoreCompileInputs.cache
+/Users/Phyxsiuss/Documents/CoeurFamilleHoldings/TechCoeur/projects/npiypAPI/obj/Debug/netcoreapp2.1/npiypAPI.RazorAssemblyInfo.cache
+/Users/Phyxsiuss/Documents/CoeurFamilleHoldings/TechCoeur/projects/npiypAPI/obj/Debug/netcoreapp2.1/npiypAPI.RazorAssemblyInfo.cs
+/Users/Phyxsiuss/Documents/CoeurFamilleHoldings/TechCoeur/projects/npiypAPI/obj/Debug/netcoreapp2.1/npiypAPI.AssemblyInfoInputs.cache
+/Users/Phyxsiuss/Documents/CoeurFamilleHoldings/TechCoeur/projects/npiypAPI/obj/Debug/netcoreapp2.1/npiypAPI.AssemblyInfo.cs
+/Users/Phyxsiuss/Documents/CoeurFamilleHoldings/TechCoeur/projects/npiypAPI/obj/Debug/netcoreapp2.1/npiypAPI.RazorTargetAssemblyInfo.cache
+/Users/Phyxsiuss/Documents/CoeurFamilleHoldings/TechCoeur/projects/npiypAPI/obj/Debug/netcoreapp2.1/npiypAPI.dll
+/Users/Phyxsiuss/Documents/CoeurFamilleHoldings/TechCoeur/projects/npiypAPI/obj/Debug/netcoreapp2.1/npiypAPI.pdb
